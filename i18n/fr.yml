@@ -1,0 +1,70 @@
+fr:
+  show_welcome_message:
+    hello_user: "Bonjour %{name}!"
+    happy_you_found_me: "Je suis content que tu m'es trouvé! 👋"
+    im_ylecuyer_personal_bot: "Je suis Yoann Lecuyer"
+    want_to_know_more: "Tu veux en savoir plus?"
+    i_want_to_know_more: "Dis m'en plus!"
+  details: "Détails"
+  view_menu: "Voir le menu"
+  back_to_menu: "Retourner au menu"
+  show_main_menu:
+    work_experience: "Expériences professionnelle"
+    studies: "Etudes"
+    language: "Langues"
+    side_projects: "Side projects"
+  show_studies_menu:
+    uniandes: "Université de Los Andes"
+    uniandes_from_to: "2013 - 2014"
+    emse: "Mines de Saint-Etienne"
+    emse_from_to: "2010 - 2014"
+  show_uniandes_details:
+    double_diploma: "J'ai fait un double diplôme en ingeniería de sistemas y computación"
+    learnt_spanish: "Cette expérience m'a permis de connaître une nouvelle culture et d'apprendre à parler une nouvelle langue"
+  show_emse_details:
+    default: "J'ai suivis le cursus Ingénieur Civil des Mines (ICM) avec une spécialisation en informatique"
+  show_languages_details:
+    french: "Français"
+    french_level: "Langue maternelle"
+    spanish: "Espagnol"
+    spanish_level: "Fluide (niveau C1 du CECR)"
+    english: "Anglais"
+    english_level: "Fluide (TOEIC 970)"
+    i_do_speak: "Si hablo espanol!"
+  show_work_experience_menu:
+    french_embassy: "Ambassade de France en Colombie"
+    french_embassy_from_to: "Depuis novembre 2015"
+    klee_group: "Klee Group"
+    klee_group_from_to: "Février 2014 - Novembre 2015"
+  show_mae_details:
+    worked_in_french_embassy: "J'effectue un VIA comme spécialiste des système d'information de l'ambassade"
+    principal_work: "Ma mission principale est la gestion et la maintenance du parc informatique et des serveurs de l'ambassade"
+    attendize: "J'ai aussi developpé un système pour la gestion des événements afin de faciliter l'envoi d'invitations et l'entré des invités au travers de QR codes"
+    french_president: "Durant mon séjour, le moment le plus impactant pour moi fût quand nous avons reçu le président de la république Française dans le cadre de l'année France-Colombie"
+  show_kleegroup_details:
+    klee_group_base: "Je developpais des applications en C#(.NET) et Java(JEE) pour des clients du secteur publique"
+    archimed_elise: "J'étais l’expert technique pour l’intégration du logiciel Elise (Archimed), logiciel de gestion de courriers dématérialisés, que nous déployons au Ministère de la Défense et de l’Éducation"
+  show_side_projects_menu:
+    bicimapa: "Bicimapa"
+    bicimapa_from_to: "Depuis 2013"
+    messenger_bot_bgta: "Messenger Bot de Bogota"
+    messenger_bot_bgta_from_to: "Depuis 2017"
+    freelance: "Freelance"
+  show_bicimapa_details:
+    main_developer: "Je suis le développeur du projet Bicimapa"
+    what_is_bicimapa: "Bicimpaa est une carte colaborative pour les cyclistes urbains de Bogota et du monde entier"
+    no_more_app: "J'avais développé des applications pour Android et iPhone mais je les ai retiré des stores pour me focaliser sur le bot de Bicimapa"
+    win_win_situation: "Ce changement m'a permis de gagner en temps de développement et d'économiser sur les frais de fonctionnement. De plus, les utilisateurs n'ont maintenant plus à télécharger l'application, dire \"bonjour\" au bot suffit!"
+  show_say_more:
+    what_i_am: "Je suis un ingénieur informatique vivant à Bogota en Colombie"
+    what_i_want: "Je suis à la recherche d'opportunités pour devenir architecte à la fin de l'année 2017"
+    lets_view_my_cv: "Jette un oeil à mon CV"
+  show_freelance_details:
+    start: "J'ai fait plusieurs travaux en freelance ces dernières années"
+    sysadmin: "Trabajé como sysadmin para una empresa de communicacion, mantenia los servidores actualizados, manejaba los backups y instalaba los nuevos sitios web que desarollaban"
+    backend: "Hice el desarollo completo de un sitio web para abogados. Este sitio estaba muy relacionado con un blog WordPress y del uno al otro se podia ver datos relacionados como entradas del blog relacionadas con un servicio o los abogados relacionados desde una entrada del blog"
+    foundation: "Ayudé una fundacion con correciones al backend de su sitio tras la desaparicion del desarollador principal para que puedan empezar con su campana de recolecion de datos"
+    and_more: "También hice varias integraciones o correciones a sitios existantes"
+  show_bots_details:
+    startup: "Creé la negocio Messenger Bot de Bogota"
+    facebook: "En la pagina de Facebook pueden ver los bots que ya se crearon"

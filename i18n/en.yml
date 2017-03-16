@@ -1,0 +1,70 @@
+en:
+  show_welcome_message:
+    hello_user: "Hola %{name}!"
+    happy_you_found_me: "Me alegra que me econtraste 👋"
+    im_ylecuyer_personal_bot: "Soy Yoann Lecuyer"
+    want_to_know_more: "Quieres saber mas?"
+    i_want_to_know_more: "Dime mas!"
+  details: "Detalles"
+  view_menu: "Ver menu"
+  back_to_menu: "Volver al menu"
+  show_main_menu:
+    work_experience: "Experiencia laboral"
+    studies: "Estudios"
+    language: "Idiomas"
+    side_projects: "Side projects"
+  show_studies_menu:
+    uniandes: "Universidad de Los Andes"
+    uniandes_from_to: "2013 - 2014"
+    emse: "Escuela nacional de ingeniería (Nivel Maestría) \"Mines de Saint-Etienne\""
+    emse_from_to: "2010 - 2014"
+  show_uniandes_details:
+    double_diploma: "Hice una doble titulación en ingeniería de sistemas y computación"
+    learnt_spanish: "Esta experiencia me permitio conocer una nueva cultura y aprendre a hablar un nuevo idioma"
+  show_emse_details:
+    default: "Me gradué como ingeniero de sistemas y computacion con un nivel equivalente a una maestria en colombia"
+  show_languages_details:
+    french: "Francés"
+    french_level: "Nativo"
+    spanish: "Espanol"
+    spanish_level: "Con fluidez (nivel C1 segun el CECR)"
+    english: "Inglés"
+    english_level: "Con fluidez (TOEIC 970)"
+    i_do_speak: "Si hablo espanol!"
+  show_work_experience_menu:
+    french_embassy: "Embajada de Francia en Colombia"
+    french_embassy_from_to: "desdes noviembre 2015"
+    klee_group: "Klee Group"
+    klee_group_from_to: "febrero 2014 - noviember 2015"
+  show_mae_details:
+    worked_in_french_embassy: "Trabajé dos anos como especialista de sistemas en la embajada de Francia"
+    principal_work: "Mi mission principal fue la gestion y el mantenimiento de la red de la embajada"
+    attendize: "Tambien implemente un sistema de gestion de eventos para facilitar el envio de invitaciones y el ingreso de los invitados a traves de codigos QR"
+    french_president: "Tuve la oportunidad de conocer muchas cosas pero los mas memorable fue cuando recibimos al presidente de la republica francesa para el ano francia colombia"
+  show_kleegroup_details:
+    klee_group_base: "Desarollaba aplicaciones en C# y Java para clientes del sector publico"
+    archimed_elise: "Hice la integracion de Elise un software de gestión de correo desmaterializado de la empresa Archimed en varios ministerios"
+  show_side_projects_menu:
+    bicimapa: "Bicimapa"
+    bicimapa_from_to: "desde 2013"
+    messenger_bot_bgta: "Messenger Bot de Bogota"
+    messenger_bot_bgta_from_to: "desde 2017"
+    freelance: "Freelance"
+  show_bicimapa_details:
+    main_developer: "Soy el desarollador del proyecto bicimapa"
+    what_is_bicimapa: "El bicimapa es un mapa colaborativo para los ciclistas urbanos de Bogota y del mundo"
+    no_more_app: "Habia publicado aplicaciones para Android e iPhone pero las quité para enfocarme en el desarollo de bot del bicimapa"
+    win_win_situation: "Este cambio nos permitio ahora muchos recursos en terminos de tiempo y dinero, ademas, los usuarios ya no necesitan descargar nuestra aplicacion sino hablarnos a traves de Facebook Messenger"
+  show_say_more:
+    what_i_am: "Soy un ingeniero de sistemas viviendo en Bogota, Colombia"
+    what_i_want: "Estoy buscando una oportunidad para ser aquitecto de software al final del 2017"
+    lets_view_my_cv: "Mira mi hoja de vida"
+  show_freelance_details:
+    start: "Hice varios trabajos como freelance durante esos ultimos anos"
+    sysadmin: "Trabajé como sysadmin para una empresa de communicacion, mantenia los servidores actualizados, manejaba los backups y instalaba los nuevos sitios web que desarollaban"
+    backend: "Hice el desarollo completo de un sitio web para abogados. Este sitio estaba muy relacionado con un blog WordPress y del uno al otro se podia ver datos relacionados como entradas del blog relacionadas con un servicio o los abogados relacionados desde una entrada del blog"
+    foundation: "Ayudé una fundacion con correciones al backend de su sitio tras la desaparicion del desarollador principal para que puedan empezar con su campana de recolecion de datos"
+    and_more: "También hice varias integraciones o correciones a sitios existantes"
+  show_bots_details:
+    startup: "Creé la negocio Messenger Bot de Bogota"
+    facebook: "En la pagina de Facebook pueden ver los bots que ya se crearon"
